@@ -1,0 +1,10 @@
+dict ={}
+while true:
+print("birthdat reminder-----")
+print("1.show birthday")
+print("2.add birthday to list")
+print("3.exit")
+choice==1:
+if len(dict.key())=0:
+
+
